@@ -23,8 +23,12 @@
   - Slack
   - TeamViewer;
   - Postman;
+  - Cypress
+  - Selenium
   - Jira;
   - Idea intellij;
+- Языки:
+  - Java
 - Кроссовые работы, монтаж кабеля
 - Умение читать технические схемы, документацию
 - Работа в команде 
